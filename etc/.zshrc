@@ -1,1 +1,0 @@
-.local/share/misc/.zshrc
