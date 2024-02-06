@@ -1,1 +1,10 @@
-etc/.local/share/misc
+files/
+files.tar
+files.tar.asc
+files.tar.sig
+
+unix/
+unix.tar
+unix.tar.asc
+unix.tar.sig
+
